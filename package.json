@@ -39,6 +39,7 @@
   "dependencies": {
     "@fluentui/react-components": "^9.47.2",
     "@fluentui/react-icons": "^2.0.233",
+    "@microsoft/teamsapp-cli": "^3.0.0",
     "core-js": "^3.36.0",
     "es6-promise": "^4.2.8",
     "react": "^18.2.0",
